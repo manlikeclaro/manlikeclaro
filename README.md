@@ -1,16 +1,18 @@
-### Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=manlikeclaro.visitor-badge)
 
-<!--
-**manlikeclaro/manlikeclaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h2>Languages, Frameworks & Tools ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,tailwind,bootstrap"/><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,laravel,vue,nuxt,react,nodejs,express"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb,graphql,redis"/><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,markdown"/>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manlikeclaro&theme=github-dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+  <br>
+  
+</div>
