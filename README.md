@@ -4,7 +4,7 @@
     <p>I'm always open to collaborations and new opportunities. Let's connect and build something amazing together!</p>
     <ul>
         <li>Email: ckibii08@gmail.com</li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/manlikeclaro">manlikeclaro</a></li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/manlikeclaro" target="_blank">manlikeclaro</a></li>
     </ul>
 </section>
 
