@@ -12,8 +12,8 @@
 
 <div align="center">
     <h2>Skills, Technologies & Tools</h2><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,tailwind,bootstrap"/><br>
-    <img src="https://skillicons.dev/icons?i=django,flask,laravel,vue,nuxt,react,nodejs,express"/><br>
+    <img src="https://skillicons.dev/icons?i=cs,python,javascript,html,css,tailwind,bootstrap"/><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,django,flask,vue,angular,react,nodejs,express"/><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb,graphql,redis"/><br>
     <img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,markdown"/>
 </div>
