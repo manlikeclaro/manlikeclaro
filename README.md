@@ -1,11 +1,18 @@
-<section>
+<header>
     <h2>About Me</h2>
-    <p>My name is <strong><em>Clarence Bartai</em></strong>, a passionate and driven software engineer based in Nairobi, Kenya.</p>
-    <p>I'm always open to collaborations and new opportunities. Let's connect and build something amazing together!</p>
-    <ul>
-        <li>Email: ckibii08@gmail.com</li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/manlikeclaro" target="_blank">manlikeclaro</a></li>
-    </ul>
+</header>
+
+<section>
+    <p>
+        Hello! I'm Clarence Bartai, a dedicated and enthusiastic software engineer based in Nairobi, Kenya. With a strong background in web development and software engineering, I love turning ideas into reality through code. I'm always on the lookout for exciting collaborations and new opportunities to create innovative solutions. Let's connect and build something extraordinary together!
+    </p>
+</section>
+
+<section class="content">
+    <h2>Contact Me</h2>
+    <p>
+        I'd love to hear from you! Whether you have a question, a project idea, or just want to say hi, feel free to reach out. You can email me at <a href="mailto:ckibii08@gmail.com">ckibii08@gmail.com</a>, or connect with me on <a href="https://linkedin.com/in/manlikeclaro" target="_blank">LinkedIn</a>.
+    </p>
 </section>
 
 <br>
@@ -13,9 +20,8 @@
 <div align="center">
     <h2>Skills, Technologies & Tools</h2><br>
     <img src="https://skillicons.dev/icons?i=cs,python,javascript,html,css,tailwind,bootstrap"/><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,django,flask,vue,angular,react,nodejs,express"/><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb,graphql,redis"/><br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,markdown"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,django,vue,angular,react,typescript,nodejs,express"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,kubernetes,docker,postman,git"/><br>
 </div>
 
 <br>
